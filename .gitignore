@@ -12,6 +12,7 @@ __pycache__/
 # Test sequences
 tests/*.fasta
 tests/*.fastq
+internal_adapters.py
 
 # Distribution and packaging
 build/
