@@ -32,3 +32,6 @@ setuptools*.zip
 .idea/
 
 gh-md-toc
+
+#envs
+.env
