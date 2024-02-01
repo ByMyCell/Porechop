@@ -50,7 +50,7 @@ def download_internal_material(ns=NAMESPACE, bucket_name=BUCKET_NAME, file=FILE)
 
 
 download_internal_material()
-from .internal_adapters import ADAPTERS  # noqa
+from internal_adapters import ADAPTERS  # noqa
 
 
 class Adapter(object):
